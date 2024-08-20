@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst and Graphics Designer
 ----------------------------------
 
-Data Analyst | Power BI Enthusiast | Problem Solver 
 I'm a data analyst passionate about using data to challenge flawed systems and solve complex problems. With expertise in SQL, Power BI, and data visualization, I turn raw data into actionable insights. My work spans various industries, focusing on improving the quality of life through data-driven decisions.
 
 * 🌍  I'm based in Lagos State, Nigeria.
