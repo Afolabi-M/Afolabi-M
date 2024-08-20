@@ -9,7 +9,7 @@ I'm a data analyst passionate about using data to challenge flawed systems and s
 * 🌍  I'm based in Lagos State, Nigeria.
 * 🖥️  See my portfolio at [DataAfolabi](http://afo-portfolio-54dx.vercel.app/)
 * ✉️  You can contact me at [afolabimubaraq@gmail.com](mailto:afolabimubaraq@gmail.com)
-* 🧠  I'm learning Database Engineer
+* 🧠  I'm learning Database Engineering
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
