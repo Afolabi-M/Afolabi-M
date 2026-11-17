@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afolabi Mubarak
 =======================================================================================================================================
 
-Data Analyst and Graphics Designer
+Data Analyst
 ----------------------------------
 
 I'm a data analyst passionate about using data to challenge flawed systems and solve complex problems. With expertise in SQL, Power BI, and data visualization, I turn raw data into actionable insights. My work spans various industries, focusing on improving the quality of life through data-driven decisions.
